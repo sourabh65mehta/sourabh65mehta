@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**sourabh65mehta/sourabh65mehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Sourabh 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Full-Stack Developer | Backend Engineering | Open Source
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- 🎓 Computer Science undergraduate in India.
+- 💻 Building full-stack applications with TypeScript and Node.js.
+- ⚙️ Interested in backend engineering, APIs and system design.
+- 🤖 Exploring GenAI and AI-powered applications.
+- 🌱 Currently exploring open-source contributions.
+
+### Tech Stack
+
+**Languages:** JavaScript, TypeScript, C++, Python
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Frontend:** React
+
+**Database:** PostgreSQL, Prisma
+
+**Tools:** Git, GitHub, Docker, Postman
+
+### Currently Working On
+
+- Building scalable backend applications.
+- Learning software architecture and testing.
+- Contributing to open source.
+
+
