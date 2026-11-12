@@ -15,17 +15,13 @@
 - 🤖 Exploring GenAI and AI-powered applications.
 - 🌱 Currently exploring open-source contributions.
 
-### Tech Stack
 
-**Languages:** JavaScript, TypeScript, C++, Python
+### 💻 Tech Stack
 
-**Backend:** Node.js, Express.js, REST APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,prisma,docker,python,cpp,git,linux&perline=6" />
+</p>
 
-**Frontend:** React
-
-**Database:** PostgreSQL, Prisma
-
-**Tools:** Git, GitHub, Docker, Postman
 
 ### Currently Working On
 
